@@ -1,10 +1,11 @@
+
 [theme]
 base = "light"
 primaryColor = "#0A7180"
-backgroundColor = "#F6F9FB"
-secondaryBackgroundColor = "#EAF1F4"
-textColor = "#1E3039"
-borderColor = "#D5E0E5"
+backgroundColor = "#F4F5F6"
+secondaryBackgroundColor = "#E8EAED"
+textColor = "#263238"
+borderColor = "#D5D9DE"
 font = "sans serif"
 headingFont = "DM Sans:https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
 baseRadius = "0.4rem"
@@ -12,8 +13,8 @@ showWidgetBorder = true
 chartCategoricalColors = ["#0A7180", "#E4775C", "#4779B8", "#D09B3D", "#668C71"]
 
 [theme.sidebar]
-backgroundColor = "#E7F0EF"
-secondaryBackgroundColor = "#DCE9E7"
-textColor = "#18383B"
-borderColor = "#C9DAD7"
+backgroundColor = "#E9EBEE"
+secondaryBackgroundColor = "#DEE1E5"
+textColor = "#263238"
+borderColor = "#D0D4D9"
 primaryColor = "#0A7180"
